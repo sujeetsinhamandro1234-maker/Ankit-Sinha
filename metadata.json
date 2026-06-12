@@ -1,0 +1,6 @@
+{
+  "name": "MIKO Voice AI",
+  "description": "MIKO is a young, confident, witty, and sassy female Voice AI companion in Hindi and Hinglish. Talk to her in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
